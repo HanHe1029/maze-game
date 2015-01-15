@@ -1,0 +1,9 @@
+Author:
+
+Run Game to play the game. There is some delay is the game which might be caused by
+inefficient algorithm. Currently, the monster try to reach the player.Monsters use DFS
+to find a path to user.
+
+
+Thanks,
+Han
